@@ -1,0 +1,30 @@
+name: Fetch Germany Proxies Every 2 Hours
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # every 2 hours
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  fetch_proxies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script
+        run: python fetch_germany_proxies.py
+
+      - name: Upload merged file as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: germany-proxies
+          path: merged_subscription_germany.txt
