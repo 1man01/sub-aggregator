@@ -2,7 +2,7 @@ name: Fetch Germany Proxies Every 2 Hours
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # every 2 hours
+    - cron: "0 */2 * * *"  # every 2 hours automatically
   workflow_dispatch:      # allows manual trigger
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
         run: python fetch_germany_proxies.py
 
       - name: Upload merged file as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: germany-proxies
           path: merged_subscription_germany.txt
