@@ -1,5 +1,6 @@
-vless://b3dae0f5-9de0-4390-bb75-55e7261e143a@srvmtkie.samanidempire.org:443?path=%2F1ab3437d&security=tls&alpn=http%2F1.1&encryption=none&host=srvmtkie.samanidempire.org&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:46ms
-vless://9d09ff51-b193-47d4-bc64-1c1422e26365@dgrns1.vertalist.ir:1310?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:52ms
+vless://a1a78e5b-b9a5-4a88-8562-4ad654bed93b@FR.maf-rehbos.ir:6663?security=none&encryption=none&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:150ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzNjNGNhZTAxZjhiYWNm@135.125.247.29:11201#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:84ms
+vless://e7a9fe3b-c10f-4a67-8f7b-e22c9c246d8d@162.159.7.198:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=germany.pahlevancompani.com&path=%2F%3Fed&security=tls&sni=germany.pahlevancompani.com&type=ws#[🏁]t.me/ConfigsHub`
 vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.135:8880?security=&encryption=none&fp=chrome&type=grpc#🇩🇪All¹
 vless://bm.boulvarmoein.shop@bm.boulvarmoein.shop:2095?path=%2FTelegram%40v2rayng_76%3D%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28Aruba%20Networks%29
