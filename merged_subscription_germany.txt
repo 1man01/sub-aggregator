@@ -13,7 +13,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#🇩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇩🇪All⁵ | @BigSmoke_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🇩🇪All⁶ | @BigSmoke_Config
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🇩🇪 |⚡@EuServer
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇩🇪[openproxylist.com] ss-DE
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#🇩🇪[openproxylist.com] ss-DE
 trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1 🇩🇪 @V2ngFast
 trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#5 🇩🇪 @V2ngFast
 trojan://1111@108.162.198.151:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#10 🇩🇪 @V2ngFast
@@ -43,12 +43,15 @@ trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#🇩🇪All⁶ | @BigSmoke_Config
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#🇩🇪All⁵ | @BigSmoke_Config
 trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
 trojan://telegram-id-privatevpns@3.127.171.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.127.99.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.69.235.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.28.114.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@63.183.120.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.183.124.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.183.93.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@xxx.vles.space:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4iRluJhaeflkqdEO8RLeLxTeTVIhzw9r8Y35fppsTFg&security=reality&sni=sun1-91.userapi.com&type=tcp#🇩🇪[openproxylist.com] vless-DE
 vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@83.166.255.72:443/?type=grpc&encryption=none&sni=api-maps.yandex.ru&security=reality&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&sid=#🇩🇪@FREE2CONFIG  (19)
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -57,6 +60,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.171.45:22224?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.99.68:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.235.19:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.114.17:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.120.121:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.124.201:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.93.61:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com#🇩🇪 v2ray_configs_pools
@@ -142,13 +146,13 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576/?type=tcp&encry
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇩🇪 |⚡@EuServer
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇩🇪Germany+->+🇩🇪Germany+⚡@DeamNet_Proxy (7)
 vless://498de120-ed30-4f7e-b498-da4917465793@172.234.239.6:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L119
-vless://4ab1088a-9f8a-4fcc-8805-8353a8b3cf44@152.53.200.42:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇩🇪[openproxylist.com] vless-DE
 vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@45.79.10.106:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L292
 vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@96.126.126.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L52
 vless://4b75a44d-3c91-461e-b5a0-6060ac8aff68@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=/faq&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com#🇩🇪 v2ray_configs_pools
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=/faq&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=adderall.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=adderall.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://4e6b23f2-932b-4a80-a280-44cdf8a86452@144.76.188.139:443?type=ws&encryption=none&path=/&host=&security=none#🇩🇪[openproxylist.com] vless-DE
 vless://4ed8fd78-f50a-4dfb-bf88-da2394652ca0@69.164.207.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L789
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://5781b499-6c56-452d-9e9f-fa43383f3b08@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
@@ -160,11 +164,12 @@ vless://5b2dc2a9-75d1-3e19-586c-deab08b2618d@lord.socialxxmedia.proxt:440?securi
 vless://5d4e7f4f-dd35-4a4e-9121-813377ec79f9@193.228.168.106:11011?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L801
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L437
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.233.255:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/?ed=2560&telegram🇨🇳 @wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#🇩🇪All⁴ | @BigSmoke_Config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇩🇪All⁵ | @BigSmoke_Config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.135.9.138:2096/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🇩🇪Germany -> 🇩🇪Germany ⚡@DeamNet_Proxy (80)
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🇺🇸United States -> 🇩🇪Germany ⚡@DeamNet_Proxy (32)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇩🇪All³ | @BigSmoke_Config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.159.98.207:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#🇩🇪All¹ | @BigSmoke_Config
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.167.32:8443/?type=ws&encryption=none&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&sni=sni.111000.indevs.in#🇩🇪Germany -> 🇫🇷France ⚡@DeamNet_Proxy
@@ -194,6 +199,7 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.42.88.244:443/?type=ws&encrypti
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=/167.179.110.68&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#🇩🇪All⁶ | @BigSmoke_Config
 vless://6fee3115-e2db-4b44-b6f0-68cd4135da2f@172.233.160.243:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L844
 vless://70d35773-7940-47a7-8375-177732e7c4df@stream.overdoes.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=q1.overdoes.site#OverdosVPN🇩🇪-Free ❌
+vless://75e13bcc-139b-4fe7-8525-548c8cfca08d@144.76.188.130:443?type=ws&encryption=none&path=/&host=&security=none#🇩🇪[openproxylist.com] vless-DE
 vless://7ab77eb0-4fcc-4ae6-b102-21002764391c@taktun4.majalekhodrostore.ir:50325?encryption=none&type=tcp&headerType=http&host=ikcosales.ir&path=/?V_P_N_Ahmad&security=none#🇩🇪 @V_P_N_Ahmad
 vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.1.105:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L389
 vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.114.187:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L988
@@ -222,6 +228,7 @@ vless://@SEGVPN@gcre.segstar.info:10100?type=tcp&security=reality&pbk=2zN5MhusgS
 vless://Own3dByHELiX@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers&sni=miro.com&sid=1c547814#🇩🇪 HELiX
 vless://Telegram:@Free_VPN_CH@195.26.231.93:443?type=ws&security=tls&sni=tn1rr.qzz.io&host=tn1rr.qzz.io&path=/sg-lnd#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:22.06ms
 vless://Telegram🇨🇳 @WangCai2@37.153.171.28:2096?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#🇩🇪All¹ | @BigSmoke_Config
+vless://a10791c1-4710-4ac7-901e-143eabe632e4@144.31.116.213:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TnfSCSoPjSQZ2GNtR15iEnTtF6AMroEBGNBhxAnitWY&security=reality&sid=4c2404fc&sni=sun6-22.userapi.com&type=tcp#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=/?ed=1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#🇩🇪 |⚡@EuServer
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=&encryption=none&host=Xtls.mehrsazi.ir&type=httpupgrade#🇩🇪All² | @BigSmoke_Config
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#🇩🇪 |⚡@EuServer
@@ -233,6 +240,7 @@ vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.236.103.5:443?type=xhttp&path=/
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇩🇪All³ | @BigSmoke_Config
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.233.173.124:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L395
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.235.143.100:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L104
+vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=tcp#〘 🇩🇪 | 🪽 @ProxyMThub 〙
 vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#🇩🇪All¹ | @BigSmoke_Config
 vless://a8dff238-bf64-4b59-816d-f7aa8c527636@198.58.113.193:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L846
 vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.202.79:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L136
@@ -265,10 +273,10 @@ vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?secur
 vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&sid=81#🇩🇪@FREE2CONFIG  (12)
 vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.t3n.de&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#🇩🇪 TCP-Reality 📁 @v2ray_configs_pool
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany.scroogethebest.com&sid=4fa44664f6a566d3#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@germany.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=germany.scroogethebest.com&type=tcp#⚡Telegram = @SOSkeyNET
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@germany.scroogethebest.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=germany.scroogethebest.com&type=tcp#🛄58@oneclickvpnkeys
 vless://cf25f9d0-408f-1142-30aa-01ead41c420d@151.101.9.81:80?mode=auto&path=/assets/css/style.css?ed=2080&security=none&encryption=none&host=grokgpt.ai&type=xhttp#⚡️𝙁𝙖𝙨𝙩𝙡𝙮 𓏺 🇩🇪azadiiivpn
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 |⚡@EuServer
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#🇩🇪[openproxylist.com] vless-DE
 vless://d22e6077-bfe7-430a-8484-9ddc672d2b76@v2ngfast-v2ngfast-v2ngfast-v2ngfast.eevqny.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.eevqny.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.eevqny.workers.dev#5  🇩🇪 @av2ngFast
 vless://d406dda1-2302-4805-a62c-f3dc36799a43@188.114.96.3:2053?path=/eyJqdW5rIjoiODJaTHE3aHlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.vnkrycw.workers.dev&fp=chrome&type=ws&sni=V2nGFasT.VnkRycw.WOrKeRS.dev#5  🇩🇪 @V2ngFast
 vless://d417cebd-ae4f-4555-92bb-1d76570aafc1@172.236.111.246:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L661
