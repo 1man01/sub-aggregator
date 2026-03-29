@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@3.69.71.108:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@52.58.26.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.183.59.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 vless://70d35773-7940-47a7-8375-177732e7c4df@stream.overdoes.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=q1.overdoes.site#OverdosVPN🇩🇪-Free ❌
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.120.175.42:443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
 vless://ae1c381b-3e66-42bf-a1d0-d2df816ad522@real.overdoes.site:43445?type=tcp&security=reality&fp=chrome&pbk=adeDTnUssyQ8VrL1MS5iOdPzTXEwk8XlBnPGPG_5DTk&sni=www.speedtest.net&sid=204cb7fc&spx=/#OverdoseVPN🇩🇪Reality4️⃣-fiuxoye4 ❌
 vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
