@@ -33,6 +33,8 @@ trojan://telegram-id-privatevpns@3.120.57.119:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.122.157.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.77.5.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.78.2.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.79.124.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.79.124.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/TeleProxyTele
 trojan://telegram-id-privatevpns@63.179.40.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.179.68.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 vless://0667652a-1b48-4eb5-99c4-47fb53f3229f@www.speedtest.net:443?path=/eyJqdW5rIjoiaEEzMlVhMzg5ZloyREMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.wrdzl.workers.dev&fp=chrome&type=ws&sni=v2NGfAsT-V2NgfAST-V2NgfaST-V2nGfASt-V2NGfasT-v2NGFasT.WRDzL.wOrkeRs.DeV#3 🇩🇪 @V2ngFast
