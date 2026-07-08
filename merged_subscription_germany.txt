@@ -1,14 +1,9 @@
-vless://96f5436d-6496-4473-b4ca-ae37f170387c@xn--sont23oo-mk75gi8a.netbazshop.ir:2035?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:104ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.26ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:24.93ms
-trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:47ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.81ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.16ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.16ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.85ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.28ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.81ms
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.81ms
+trojan://humanity@45.80.111.7:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:45ms
+vless://58d23d23-0d2b-4cf1-809b-2625ded3dba0@las.dearhossein-taktaz.ir:46176?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&fp=chrome&host=play.google.com&encryption=none&pbk=D4hKOdrSTKmI0HIYFf1-Ggy0ADaB39k7AQAZmeK9qCM&security=reality&sid=70&sni=www.yahoo.com&spx=%2Ft9MMErPLlzdH7wc&type=tcp&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:56.1ms
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:29.95ms
+vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.83ms
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:29.95ms
+vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=&encryption=none&headerType=&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:22.83ms
 trojan://MITIVPN@104.17.147.22:443?security=tls&sni=germany.App-Cloud.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=germany.App-Cloud.ir&path=/MiTiVPN=De#EPODONIOS
 trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#EPODONIOS
 trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#EPODONIOS
@@ -24,7 +19,6 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#EPODONIOS
 vless://b4229f01-45e5-4da1-9471-b76227fa5dc8@germany.lorluma.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#EPODONIOS
-vless://e6428981-7334-466d-b13a-17a25080ad43@germany-tsew980-g.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://e6428981-7334-466d-b13a-17a25080ad43@germany-tsew980-g.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://e6428981-7334-466d-b13a-17a25080ad43@germany-tsew980-g.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://e6428981-7334-466d-b13a-17a25080ad43@germany-tsew980-g.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
