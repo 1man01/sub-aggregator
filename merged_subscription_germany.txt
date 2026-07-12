@@ -1,12 +1,15 @@
-vless://02418721-edeb-4aa8-9440-53ccc2cc4a98@f3caf67b8a554652.monopolitass.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=2716d84d89b5eadc#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:104.32ms
-vless://dfca94c2-9a8d-40aa-8b48-3fb00be31cca@185.204.170.178:443?encryption=none&security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:25.2ms
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:42.05ms
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:42.05ms
+trojan://humanity@141.101.90.101:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=ios#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Munich (Altstadt-Lehel)🅿️ping:44ms
+trojan://humanity@141.101.90.101:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=ios#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Munich (Altstadt-Lehel)🅿️ping:44ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?sni=185.137.157.156&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28ms
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?sni=185.137.157.151&type=tcp&fp=chrome#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28ms
 trojan://MITIVPN@104.17.147.22:443?security=tls&sni=germany.App-Cloud.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=germany.App-Cloud.ir&path=/MiTiVPN=De#EPODONIOS
 trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#EPODONIOS
 vless://3ead0609-85d7-42eb-937c-ebe092250bf0@germany-tsew980-g.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#EPODONIOS
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#EPODONIOS
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#EPODONIOS
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#EPODONIOS
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#EPODONIOS
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#EPODONIOS
