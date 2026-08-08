@@ -25,7 +25,6 @@ vless://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?security=reali
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=germany-2.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#EPODONIOS
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=germany-2.ariyuz.org.&fp=chrome&type=ws&sni=germany-2.ariyuz.org.#EPODONIOS
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=germany-2.ariyuz.org.&fp=chrome&type=ws&sni=germany-2.ariyuz.org.#EPODONIOS
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.1:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=germany-2.ariyuz.org.&fp=chrome&type=ws&sni=germany-2.ariyuz.org.#EPODONIOS
 vless://10c9c533-1487-4de7-b3af-d2efae62cdac@2.26.230.254:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=y0wgEdmPNIKlAMJHeC0teOW_fBnX8tmRE8n1CwOZSwU&security=reality&sni=newgermany.live&type=tcp#EPODONIOS
 vless://10c9c533-1487-4de7-b3af-d2efae62cdac@newgermany.live:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=y0wgEdmPNIKlAMJHeC0teOW_fBnX8tmRE8n1CwOZSwU&security=reality&sni=newgermany.live&type=tcp#EPODONIOS
 vless://59260bc4-8672-4573-b805-a372efc200b8@germany1.fastly80-2.hosting-ip.com:80?path=/?ed=1024&security=none&encryption=none&host=iranvpn.com.&type=ws#EPODONIOS
@@ -38,8 +37,6 @@ vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2
 vless://be38206f-131d-4264-b47c-4802ff0b7c83@pg.nexorainnovationhub.ir:80?path=/&security=none&encryption=none&host=germany.lezzaluxa.ir&type=ws#EPODONIOS
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#EPODONIOS
 vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@germany2.avrilon.us:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.IU93_zTVl-948HR94z9259IKoTU_qSM_0ttmIUamVh8&pbk=rA_ItMaIiG_OUjcaTLpxOoF-OHh4WJsNUfWh7QUn_xU&headerType=none&fp=chrome&spx=/49b9d6fab1f9e6c&type=tcp&flow=xtls-rprx-vision&sni=image.semiconductor.samsung.com&sid=2f3178a1d747#EPODONIOS
-vless://edb485d9-d652-4dca-8f54-3cf7f4b74ee5@germany.benjaminclouds.ir:2083?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://edb485d9-d652-4dca-8f54-3cf7f4b74ee5@germany.benjaminclouds.ir:2083?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://edb485d9-d652-4dca-8f54-3cf7f4b74ee5@germany.benjaminclouds.ir:2083?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?security=reality&encryption=none&pbk=tcGias3ywS5uxXzg5Bv-TNtxclCganaj3iFSjjHgMSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany2.stardevs.top&sid=f37fb7531c60780d#EPODONIOS
 vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#EPODONIOS
