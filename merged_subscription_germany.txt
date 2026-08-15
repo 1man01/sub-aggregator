@@ -26,6 +26,7 @@ vless://4907461d-bd34-418a-b4b9-6106f979c686@germany.panelbaz.com:5000?security=
 vless://4907461d-bd34-418a-b4b9-6106f979c686@germany.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
 vless://59260bc4-8672-4573-b805-a372efc200b8@germany1.fastly80-2.hosting-ip.com:80?path=/?ed=1024&security=none&encryption=none&host=iranvpn.com.&type=ws#EPODONIOS
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#EPODONIOS
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#EPODONIOS
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#EPODONIOS
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#EPODONIOS
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?security=reality&encryption=none&pbk=tcGias3ywS5uxXzg5Bv-TNtxclCganaj3iFSjjHgMSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany2.stardevs.top&sid=f37fb7531c60780d#EPODONIOS
