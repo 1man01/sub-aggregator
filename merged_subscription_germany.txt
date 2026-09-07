@@ -12,15 +12,9 @@ vless://3ee07848-0e0c-4ab3-84ee-099c8788d8c5@de9.bexait.ir:2434?encryption=none&
 vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@2.26.84.22:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ia6cEEqjnawIhBPzcHFWSNsQIOJcHQU5t5FebSphWGA&security=reality&sni=de-6.kihsuyhf8jkiugsxb.cfd&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:37.33ms
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080/?sni=hopp-germany-new.ddnsguru.com#EPODONIOS
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443/?insecure=1&sni=germany1.h2corp.local#EPODONIOS
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#EPODONIOS
-vless://9237943a-bf46-413f-87d8-a16cceff5db1@germany.hac163.com:80?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&path=/VIP?ed=2048&encryption=mlkem768x25519plus.native.0rtt.rbFDzTCY8XMubKQPEMk4CEhIcyl_jBYsDqToZvfiZB4&host=amp-api-edge.apps.apple.com&type=ws#EPODONIOS
-vless://93485ea4-aaf7-4335-bf9d-b0daeb766e14@199.232.237.79:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=silvergermany.global.ssl.fastly.net#EPODONIOS
-vless://93485ea4-aaf7-4335-bf9d-b0daeb766e14@199.232.237.79:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=silvergermany.global.ssl.fastly.net#EPODONIOS
-vless://93485ea4-aaf7-4335-bf9d-b0daeb766e14@199.232.237.79:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=silvergermany.global.ssl.fastly.net#EPODONIOS
-vless://93485ea4-aaf7-4335-bf9d-b0daeb766e14@199.232.237.79:80?path=/&security=&encryption=none&host=silvergermany.global.ssl.fastly.net&type=ws#EPODONIOS
-vless://93485ea4-aaf7-4335-bf9d-b0daeb766e14@199.232.237.79:80?path=/&security=none&encryption=none&host=silvergermany.global.ssl.fastly.net&type=ws#EPODONIOS
-vless://93485ea4-aaf7-4335-bf9d-b0daeb766e14@199.232.237.79:80?path=/&security=none&encryption=none&host=silvergermany.global.ssl.fastly.net&type=ws#EPODONIOS
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#EPODONIOS
+vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany3kvlcvkzcxvlqwe312adscrfsdcrc234cefopewfpo23o.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#EPODONIOS
+vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany3kvlcvkzcxvlqwe312adscrfsdcrc234cefopewfpo23o.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43#EPODONIOS
 vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=/&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#EPODONIOS
 vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#EPODONIOS
 vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#EPODONIOS
