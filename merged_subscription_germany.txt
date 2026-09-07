@@ -15,8 +15,6 @@ hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.cli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@germany2.fardad1.ir:61473#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@germany2.fardad1.ir:61473#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@germany2.fardad1.ir:61473#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWEZGOTdneEZqYXZnaWR6Y1JXdzlR@germany2.fardad1.ir:61473#EPODONIOS
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#EPODONIOS
 vless://9237943a-bf46-413f-87d8-a16cceff5db1@germany.hac163.com:80?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&path=/VIP?ed=2048&encryption=mlkem768x25519plus.native.0rtt.rbFDzTCY8XMubKQPEMk4CEhIcyl_jBYsDqToZvfiZB4&host=amp-api-edge.apps.apple.com&type=ws#EPODONIOS
 vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#EPODONIOS
 vless://ba66fa82-c342-4482-ae03-d097e6cafd7a@Germany2.fardad1.ir:36637?security=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#EPODONIOS
